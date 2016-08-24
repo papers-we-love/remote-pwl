@@ -1,6 +1,17 @@
 # Remote
 
-This is the repository for the Remote chapter of Papers We Love. As a chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/remote-pwl/blob/master/code-of-conduct.md).
+This is the repository for the Remote chapter of Papers We Love. As a chapter we
+follow the Papers We Love [Code of
+Conduct](https://github.com/papers-we-love/remote-pwl/blob/master/code-of-conduct.md).
+
+The indidual talks each have their own subdirectory, and will be linked in a
+list in the order in which they are given.
+
+- [Packet Transactions: High level programming for line rate
+  switches](./packet-transactions)
+  - [Happening on September 12 at
+    1800UTC](https://www.bigmarker.com/papers-we-love/Papers-We-Love-Remote-Meetup-1).
+    Register to help us plan appropriately!
 
 ### Information
 
@@ -18,11 +29,10 @@ help and support of [PapersWeLove](http://paperswelove.org),
 [BigMarker](http://www.bigmarker.com) who have graciously provided us with a
 1,000-participant plan.
 
-We're presently organizing the first-ever meetup, and will update this document
-when a date and time have been determined.  We will likely run the meetup on
-different days of the week and times of day each month, so that we can be sure
-to make it as easy as possible for people with differing schedules to still be
-included.
+The first meetup is upcoming, see the top of this file.  We will likely run the
+meetup on different days of the week and times of day each month, so that we can
+be sure to make it as easy as possible for people with differing schedules to
+still be included.
 
 ### Contact
 
