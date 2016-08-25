@@ -4,7 +4,7 @@ This is the repository for the Remote chapter of Papers We Love. As a chapter we
 follow the Papers We Love [Code of
 Conduct](https://github.com/papers-we-love/remote-pwl/blob/master/code-of-conduct.md).
 
-The indidual talks each have their own subdirectory, and will be linked in a
+The individual talks each have their own subdirectory, and will be linked in a
 list in the order in which they are given.
 
 - [Packet Transactions: High level programming for line rate
