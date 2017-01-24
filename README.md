@@ -7,11 +7,9 @@ Conduct](https://github.com/papers-we-love/remote-pwl/blob/master/code-of-conduc
 The individual talks each have their own subdirectory, and will be linked in a
 list in the order in which they are given.
 
-- [Packet Transactions: High level programming for line rate
-  switches](./packet-transactions)
-  - [Happening on September 12 at
-    1800UTC](https://www.bigmarker.com/papers-we-love/Papers-We-Love-Remote-Meetup-1).
-    Register to help us plan appropriately!
+- Meetup #1: [Shrutarshi Basu - Packet Transactions: High level programming for line rate switches](./packet-transactions)
+- Meetup #2: [Philip Wadler - Definitional Interpreters for Higher-Order Programming Languages](./definitional-interpreters)
+- Meetup #3: [Romeu Moura - Out of the Tar Pit](./out-of-the-tar-pit)
 
 ### Information
 
